@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 piiza
 lasania
 rice
+=======
+same khoda
+90
+ss
+>>>>>>> movies
